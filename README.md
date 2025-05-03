@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**setzexe/setzexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"
+  
+hi this is my (first) README.md ^^    
+Grew up fascinated by technology, computing, the internet, anything digital growing up  
+<b>WHEN THE FUTURE WAS GREEN AND DIGITAL AND BEAUTIFUL!!!</b>  
+Decided to take the field more seriously and take cybersecurity in University,  
+while learning programming and code in the process.  
+Learning Mandarin, would love to take
+<br><br>  
+i also am huge into music, anime/manga, art, and gaming —  
+so if ur into (or even if ur not) that feel free to talk to me about ur interests :]  
+would love to meet people with similar ideals and interests.
+<br><br>
+he/him | 19  
+you can find me / talk to me easily on discord: **s6tz**
+</p>
