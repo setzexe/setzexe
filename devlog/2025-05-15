@@ -1,0 +1,14 @@
+# May 15, 2025: New progress + Knowledge with the Employee Clock In Project
+
+Adding some more progress onto the project (so far only in the employee info gathering bit), I learned a bit more about strings and
+checking variables that store data if they have letters, number, etc. I also became slightly more adjusted to bool, something that I
+was not very familiar with beforehand. Great Progress so far though, excited where things will turn out.
+
+# Things I accomplished
+- Utilized while(loops) and bool to confirm that pins and names match what they need to be (numbers, letters)
+- Utilized all_of, .length, and .begin/.end, was not familiar with them before
+
+# Things to fix / improve of
+- Now it does not exit, beforehand it did but it also never showed the vector
+- Maybe try to make it so it can take everything lowercase?
+- Get more comfortable / learn more about other loops
