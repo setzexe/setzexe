@@ -11,6 +11,6 @@ i also am huge into music, anime/manga, art, and gaming —
 so if ur into (or even if ur not) that feel free to talk to me about ur interests :]  
 would love to meet people with similar ideals and interests.
 <br><br>
-he/him | 19  
+he/him | 20  
 you can find me / talk to me easily on discord: **s6tz**
 </p>
