@@ -1,15 +1,22 @@
-<p align="center"
+
   
-hi this is my (first) README.md ^^    
-Grew up fascinated by technology, computing, the internet, anything digital growing up  
-Decided to take the field more seriously and take cybersecurity in University,  
-while learning programming and code in the process.  
-Learning Mandarin, would love to take myself to China someday and view all the tech
-<br><br>  
-i also am huge into music, anime/manga, art, and gaming —  
-so if ur into (or even if ur not) that feel free to talk to me about ur interests :]  
-would love to meet people with similar ideals and interests.
-<br><br>
-he/him | 20  
-you can find me / talk to me easily on discord: **s6tz**
-</p>
+# Hi, I'm setzexe (^^)/
+
+I am Cybersecurity student with a deep interest in computing, tech infrastructure, and the vast world of digital systems. Currently learning and exploring the digital world for  knowledge on cyber and all cool tech based things.
+
+## I'm Up To...
+* Studying Cybersecurity in University
+* Building **Cyberseverance** 🌐 (Cybersecurity & Creative Tech Brand)
+* Learning Mandarin & exploring global culture / tech ecosystems
+* Listening to music, watching anime / reading manga, or playing games
+* Exploring the world!
+
+## Tech Stack & Tools
+
+Python · Flask · SQL · Supabase PostgreSQL · HTML/CSS · Linux · Bash · Git/GitHub · Wireshark · C++ · Java
+
+## Let's connect!
+* Email: setzexe@gmail.com
+* Linkedin: www.linkedin.com/in/ryan-setzer
+* Discord: s6tz
+* Carrd / more info: https://s6tz.carrd.co
