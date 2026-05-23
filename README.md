@@ -2,7 +2,6 @@
   
 hi this is my (first) README.md ^^    
 Grew up fascinated by technology, computing, the internet, anything digital growing up  
-<b>WHEN THE FUTURE WAS GREEN AND DIGITAL AND BEAUTIFUL!!!</b>  
 Decided to take the field more seriously and take cybersecurity in University,  
 while learning programming and code in the process.  
 Learning Mandarin, would love to take myself to China someday and view all the tech
