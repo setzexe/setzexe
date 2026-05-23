@@ -9,7 +9,7 @@ I am Cybersecurity student with a deep interest in computing, tech infrastructur
 * Building **Cyberseverance** 🌐 (Cybersecurity & Creative Tech Brand)
 * Learning Mandarin & exploring global culture / tech ecosystems
 * Listening to music, watching anime / reading manga, or playing games
-* Exploring the world!
+* Exploring the beautiful planet around us
 
 ## Tech Stack & Tools
 
