@@ -2,7 +2,7 @@
   
 # Hi, I'm setzexe (^^)/
 
-I am Cybersecurity student with a deep interest in computing, tech infrastructure, and the vast world of digital systems. Currently learning and exploring the digital world for  knowledge on cyber and all cool tech based things.
+I am a Cybersecurity student with a lifelong interest in computing, tech infrastructure & aesthetics, and the vast world of digital systems. Currently learning and exploring the digital world for knowledge on cyber and all cool tech based things.
 
 ## I'm Up To...
 * Studying Cybersecurity in university
