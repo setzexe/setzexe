@@ -15,7 +15,7 @@ I am Cybersecurity student with a deep interest in computing, tech infrastructur
 
 Python · Flask · SQL · Supabase PostgreSQL · HTML/CSS · Linux · Bash · Git/GitHub · Wireshark · C++ · Java
 
-## Let's connect!
+## Wanna connect?
 * Email: setzexe@gmail.com
 * Linkedin: www.linkedin.com/in/ryan-setzer
 * Discord: s6tz
