@@ -4,9 +4,9 @@
 
 I am a Cybersecurity student with a lifelong interest in computing, tech infrastructure & aesthetics, and the vast world of digital systems. Currently learning and exploring the digital world for knowledge on cyber and all cool tech based things.
 
-## I'm Up To...
+## What am I up too?
 * Studying Cybersecurity in university
-* Building **Cyberseverance** 🌐 (My Cybersecurity & Creative Tech Brand)
+* Building **Cyberseverance** (My Cybersecurity & Creative Tech Brand)
 * Learning Mandarin & exploring global culture / tech ecosystems
 * Listening to music, watching anime / reading manga, or playing games
 * Exploring the beautiful planet around us
