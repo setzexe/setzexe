@@ -13,7 +13,7 @@ I am a Cybersecurity student with a lifelong interest in computing, tech infrast
 
 ## Tech Stack & Tools
 
-Python · Flask · SQL · Supabase PostgreSQL · HTML/CSS · Linux · Bash · Git/GitHub · Wireshark · C++ · Java
+Python · Linux · SQL · HTML/CSS · Wireshark · Bash · Git/GitHub · Flask · C++ · Java
 
 ## Wanna connect?
 * Email: setzexe@gmail.com
