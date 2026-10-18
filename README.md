@@ -19,4 +19,4 @@ Python · Linux · SQL · HTML/CSS · Wireshark · Bash · Git/GitHub · Flask �
 * Email: setzexe@gmail.com
 * Linkedin: www.linkedin.com/in/ryan-setzer
 * Discord: s6tz
-* Carrd / more info: https://s6tz.carrd.co
+* My personal site / more info: [Neocities](https://setz.neocities.org)
